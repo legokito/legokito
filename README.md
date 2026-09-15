@@ -1,6 +1,7 @@
 ## hi, i'm manit! 
 
 I'm a sophomore at Stanford pursuing CS (systems + AI) and [Music](https://www.youtube.com/@manitmakesmusic2131) (production, engineering, djing, piano). 
+
 Feel free to browse through my projects :) (i'd start with LookAhead!)
 
 <!--
