@@ -1,6 +1,6 @@
-## hi, i'm manit mehta! 
+## hi, i'm manit! 
 
-i'm a sophomore at Stanford pursuing CS (systems + AI) and [music](https://www.youtube.com/@manitmakesmusic2131) (production, engineering, djing, piano). feel free to browse through my projects :) (i'd start with LookAhead!)
+I'm a sophomore at Stanford pursuing CS (systems + AI) and [Music](https://www.youtube.com/@manitmakesmusic2131) (production, engineering, djing, piano). Feel free to browse through my projects :) (i'd start with LookAhead!)
 
 <!--
 **legokito/legokito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
