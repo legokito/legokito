@@ -2,6 +2,8 @@
 
 I'm a sophomore at Stanford pursuing CS (systems + AI) and [Music](https://www.youtube.com/@manitmakesmusic2131) (production, engineering, djing, piano). 
 
+I'm interested in anything to do with systems programming, and interesting ML infra related work!
+
 Feel free to browse through my projects :) (I'd start with LookAhead!)
 
 <!--
