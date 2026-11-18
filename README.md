@@ -2,10 +2,14 @@
 
 I'm a sophomore at Stanford pursuing CS (systems + AI) and [Music](https://www.youtube.com/@manitmakesmusic2131) (production, engineering, djing, piano). 
 
-I'm interested in anything to do with systems programming (but especially audio 👀), and ML infra related work!
+I'm interested in anything to do with systems programming (especially audio 👀), and ML infra related work!
 
 Feel free to browse through my projects :) (I'd start with LookAhead!)
 
+Currently: 
+- Networked collaborative mini-DJing application at final project for cs144 (networking)
+- Progressing on 1brc
+- Exploring low-level programming and memory management (to see how they influence performance)
 <!--
 **legokito/legokito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
