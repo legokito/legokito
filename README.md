@@ -7,7 +7,7 @@ I'm interested in anything to do with systems programming (especially audio 👀
 Feel free to browse through my projects :) (I'd start with LookAhead!)
 
 Currently: 
-- Networked collaborative mini-DJing application at final project for cs144 (networking)
+- Networked collaborative mini-DJing application as final project for cs144 (networking)
 - Progressing on 1brc
 - Exploring low-level programming and memory management (to see how they influence performance)
 <!--
